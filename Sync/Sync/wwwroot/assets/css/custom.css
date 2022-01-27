@@ -1,0 +1,47 @@
+.rounded-border {
+    border: transparent solid 0.5px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.li-square {
+    list-style-type: square;
+    margin-left: 20px;
+}
+.bg-violet {
+    background-color: rgba(137, 43, 226, 0.3);
+    color: blueviolet;
+}
+.bg-green {
+    background-color: rgba(43, 226, 119, 0.3);
+    color: green;
+}
+
+.tab-violet {
+    background-color: white !important ;
+    color: blueviolet !important;
+}
+.tab-violet:focus {
+    background-color: blueviolet !important;
+    color: white !important;
+}
+footer {
+    border-top: gray solid 1px;
+}
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    border-radius: 50%;
+    background-color: darkgray;
+  }
+  
+  #myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }

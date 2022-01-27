@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync", "Sync\Sync.csproj", "{80EF5D79-5060-412A-BADD-9CD25381DC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EF5D79-5060-412A-BADD-9CD25381DC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EF5D79-5060-412A-BADD-9CD25381DC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EF5D79-5060-412A-BADD-9CD25381DC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EF5D79-5060-412A-BADD-9CD25381DC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F0C784-8D64-40E3-92AE-642FC885CD1F}
+	EndGlobalSection
+EndGlobal
